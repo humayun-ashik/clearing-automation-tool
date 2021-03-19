@@ -1,6 +1,22 @@
 # Clearing Automation Tool for DFS Project
 This is a tool prepared for reducing the cost of time for manual testing in a fintech project.
 
+##Contents:
+* [Project overview: Digital Financial Services (DFS)](#project-overview-digital-financial-services-dfs-)
+* [Clearing concept](#clearing-concept)
+* [Purpose of clearing](#purpose-of-clearing)
+* [List Of Transaction events](#list-of-transaction-events)
+* [Data Movement Flow Of Clearing](#data-movement-flow-of-clearing)
+* [Sample Calculation For – Cash-In](#sample-calculation-for--cash-in)
+* [Previous approach for clearing](#previous-approach-for-clearing)
+* [Automation project structure + description](#automation-project-structure--description)
+* [How code will be worked](#how-code-will-be-worked)
+* [Dependencies: Required tools](#dependencies-required-tools)
+* [How to run](#how-to-run)
+* [Future Improvements](#future-improvements)
+
+
+
 ## [Project overview: Digital Financial Services (DFS)] </br>
 This project is about ensuring financial services through mobile platform. Financial services includes: user-to-user send money, cash-out from agent, mobile recharge, E-commerce pay, Bill Pay for the user app. Similarly user app, there are more 3 apps for the agent, dso and distributor. Agent can cash in, merchant pay etc. Distributors are the employee of the system and under their supervision dso operates. There are investors, owners, solution providers who shares the benefit earned from the project. 
 
