@@ -1,7 +1,7 @@
 # Clearing Automation Tool for DFS Project
 This is a tool prepared for reducing the cost of time for manual testing in a fintech project.
 
-##Contents:
+## Contents:
 * [Project overview: Digital Financial Services (DFS)](#project-overview-digital-financial-services-dfs-)
 * [Clearing concept](#clearing-concept)
 * [Purpose of clearing](#purpose-of-clearing)
